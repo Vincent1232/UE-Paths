@@ -4,7 +4,7 @@
 Many people are unaware of where to find things like UObjects, TArrary, and so on. Therefore, this provides a simple but not comprehensive solution.
 You will find the sections for the items listed below relatively close to where the website opens.
 
-**TArrary**
+**TArray**
 
 
 ```/Engine/Source/Runtime/Core/Public/Containers/Array.h#L305```
